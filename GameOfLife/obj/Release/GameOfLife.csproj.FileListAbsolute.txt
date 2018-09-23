@@ -1,0 +1,10 @@
+C:\Users\exdyd\source\repos\GameOfLife\GameOfLife\obj\Release\GameOfLife.GameForm.resources
+C:\Users\exdyd\source\repos\GameOfLife\GameOfLife\obj\Release\GameOfLife.MenuForm.resources
+C:\Users\exdyd\source\repos\GameOfLife\GameOfLife\obj\Release\GameOfLife.csproj.GenerateResource.cache
+C:\Users\exdyd\source\repos\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe.config
+C:\Users\exdyd\source\repos\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe
+C:\Users\exdyd\source\repos\GameOfLife\GameOfLife\bin\Release\GameOfLife.pdb
+C:\Users\exdyd\source\repos\GameOfLife\GameOfLife\obj\Release\GameOfLife.Properties.Resources.resources
+C:\Users\exdyd\source\repos\GameOfLife\GameOfLife\obj\Release\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\exdyd\source\repos\GameOfLife\GameOfLife\obj\Release\GameOfLife.exe
+C:\Users\exdyd\source\repos\GameOfLife\GameOfLife\obj\Release\GameOfLife.pdb

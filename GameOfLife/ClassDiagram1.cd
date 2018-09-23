@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameOfLife.GameForm">
+    <Position X="6.75" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>iDAAAAAIiCBBgFAACAiYAAAGACBAgAAAJAQAEgAAgAE=</HashCode>
+      <FileName>GameForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="gof" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GameOfLife.Mygame">
+    <Position X="4" Y="3.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="GameOfLife.Mygame.Paints">
+        <TypeIdentifier>
+          <NewMemberFileName>GameForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="GameOfLife.Mygame.Generation">
+        <Compartments>
+          <Compartment Name="Nested Types" Collapsed="false" />
+        </Compartments>
+        <NestedTypes>
+          <Class Name="GameOfLife.Mygame.Generation.Cell">
+            <TypeIdentifier>
+              <NewMemberFileName>GameForm.cs</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+        </NestedTypes>
+        <TypeIdentifier>
+          <NewMemberFileName>GameForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACgAgAACAAAAAAQAQAAAAAACCAAAAAAAAAAAAEAAAAE=</HashCode>
+      <FileName>GameForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="legacy" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GameOfLife.MenuForm">
+    <Position X="10" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACCAAAAAAADACCECAAABAIAAAiAQAAQACAQ=</HashCode>
+      <FileName>MenuForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="currentgame" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GameOfLife.Deq&lt;type&gt;">
+    <Position X="1.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgACAQAAACAAAAAAAAAAABACAA=</HashCode>
+      <FileName>GameForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

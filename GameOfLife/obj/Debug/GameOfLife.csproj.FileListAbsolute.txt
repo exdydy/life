@@ -1,0 +1,3 @@
+C:\Users\exdyd\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.GameForm.resources
+C:\Users\exdyd\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.MenuForm.resources
+C:\Users\exdyd\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.cache
